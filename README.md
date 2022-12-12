@@ -1,6 +1,6 @@
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt install python3-pip
+-sudo apt-get update
+-sudo apt-get upgrade
+-sudo apt install python3-pip
 sudo pip install pn532pi
 sudo pip install spidev
 cd ~
