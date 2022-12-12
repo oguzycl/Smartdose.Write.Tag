@@ -13,7 +13,7 @@
 -git clone https://github.com/yongatek-industrial/Smartdose.Write.Tag.git
 -cd Smartdose.Write.Tag
 -python3 Write_nfc_tag.py
--
+
 --- PIN CONNECTIONS --
 -pn532 sck -> RPI pin 23
 -pn532 miso -> RPI pin 21
